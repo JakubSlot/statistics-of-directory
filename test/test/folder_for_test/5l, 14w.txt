@@ -1,0 +1,5 @@
+Przykladowy tekst
+ktory sklada sie
+z czternastu wyrazow,
+a dodatkowo ma
+piec linii tekstu.
